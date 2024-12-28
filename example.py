@@ -24,6 +24,8 @@ def main():
     print("\nChoose method:")
     print("1. Iterative")
     print("2. Recursive")
+    print("anirudh")
+    print("anirudh2")
     choice = int(input("Enter choice (1/2): "))
 
     if choice == 1:
